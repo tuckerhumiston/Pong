@@ -1,6 +1,6 @@
 # Pong Game on FPGA using SystemVerilog
 
-  <img src="RTL Screenshots\zoomed_out_pong_rtl.jpg" width="30%" />
+![zoomed_out_pong_rtl](https://github.com/tuckerhumiston/Pong/assets/128828000/9a1da67b-d9bc-4e87-b507-0a0e94c3b541)
 
 
 ## Introduction
