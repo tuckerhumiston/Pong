@@ -3,6 +3,7 @@
 ![zoomed_out_pong_rtl](https://github.com/tuckerhumiston/Pong/assets/128828000/9a1da67b-d9bc-4e87-b507-0a0e94c3b541)
 
 
+
 ## Introduction
 
 This project is an implementation of the classic Pong game using SystemVerilog and targeted for the Intel Aterra DE0 FPGA board. It was developed as part of our Sequential Logic Systems class at The University of Maine.
@@ -36,4 +37,8 @@ After getting started, each player will pick a side of the board. Players have c
 - Tucker Humiston
 - Roy Koneff
 - Branson Waldrop
+
+## Resources:
+- FPGA Board User Manual: https://ftp.intel.com/Public/Pub/fpgaup/pub/Intel_Material/18.1/Computer_Systems/DE0-CV/DE0-CV_Computer_NiosII.pdf
+- FPGA Board Layout: https://www.terasic.com.tw/attachment/archive/364/image/image_75_thumb.jpg
 
